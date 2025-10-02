@@ -51,7 +51,7 @@ async function runMenu(user) {
       await uiTagPhoto(user.id);
     }
   }
-  console.log('Goodbye!');
+  console.log('finsihs');
 }
 
 /**
