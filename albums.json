@@ -1,0 +1,156 @@
+[
+  {
+    "id": 201,
+    "owner": 1,
+    "filename": "beach-vacations-cover.jpg",
+    "title": "Beach Vacations Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Photos taken during various beach trips.",
+    "resolution": "1920x1080",
+    "albums": [201],
+    "tags": ["beach", "vacations"]
+  },
+  {
+    "id": 202,
+    "owner": 2,
+    "filename": "family-cover.jpg",
+    "title": "Family Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Family gatherings and celebrations.",
+    "resolution": "1920x1080",
+    "albums": [202],
+    "tags": ["family"]
+  },
+  {
+    "id": 203,
+    "owner": 1,
+    "filename": "hiking-cover.jpg",
+    "title": "Hiking Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Photos from hiking adventures.",
+    "resolution": "1920x1080",
+    "albums": [203],
+    "tags": ["hiking"]
+  },
+  {
+    "id": 204,
+    "owner": 2,
+    "filename": "work-events-cover.jpg",
+    "title": "Work Events Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Memories from different office events.",
+    "resolution": "1920x1080",
+    "albums": [204],
+    "tags": ["work", "events"]
+  },
+  {
+    "id": 205,
+    "owner": 1,
+    "filename": "friends-cover.jpg",
+    "title": "Friends Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Moments with friends over the years.",
+    "resolution": "1920x1080",
+    "albums": [205],
+    "tags": ["friends"]
+  },
+  {
+    "id": 206,
+    "owner": 2,
+    "filename": "food-cover.jpg",
+    "title": "Food Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Tasty dishes and food experiments.",
+    "resolution": "1920x1080",
+    "albums": [206],
+    "tags": ["food"]
+  },
+  {
+    "id": 207,
+    "owner": 1,
+    "filename": "travel-cover.jpg",
+    "title": "Travel Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Photos from travels around the world.",
+    "resolution": "1920x1080",
+    "albums": [207],
+    "tags": ["travel"]
+  },
+  {
+    "id": 208,
+    "owner": 2,
+    "filename": "pets-cover.jpg",
+    "title": "Pets Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Our furry friends doing cute things.",
+    "resolution": "1920x1080",
+    "albums": [208],
+    "tags": ["pets"]
+  },
+  {
+    "id": 209,
+    "owner": 1,
+    "filename": "art-cover.jpg",
+    "title": "Art Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Artwork and creative projects.",
+    "resolution": "1920x1080",
+    "albums": [209],
+    "tags": ["art"]
+  },
+  {
+    "id": 210,
+    "owner": 2,
+    "filename": "sports-cover.jpg",
+    "title": "Sports Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Sports activities and events.",
+    "resolution": "1920x1080",
+    "albums": [210],
+    "tags": ["sports"]
+  },
+  {
+    "id": 211,
+    "owner": 1,
+    "filename": "weddings-cover.jpg",
+    "title": "Weddings Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Wedding celebrations.",
+    "resolution": "1920x1080",
+    "albums": [211],
+    "tags": ["weddings"]
+  },
+  {
+    "id": 212,
+    "owner": 2,
+    "filename": "gardening-cover.jpg",
+    "title": "Gardening Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Plants, flowers, and garden projects.",
+    "resolution": "1920x1080",
+    "albums": [212],
+    "tags": ["gardening"]
+  },
+  {
+    "id": 213,
+    "owner": 1,
+    "filename": "unsorted-cover.jpg",
+    "title": "Unsorted Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Miscellaneous photos not yet categorized.",
+    "resolution": "1920x1080",
+    "albums": [213],
+    "tags": ["unsorted"]
+  },
+  {
+    "id": 214,
+    "owner": 2,
+    "filename": "architecture-cover.jpg",
+    "title": "Architecture Cover",
+    "date": "2024-01-01T00:00:00",
+    "description": "Interesting buildings and structures.",
+    "resolution": "1920x1080",
+    "albums": [214],
+    "tags": ["architecture"]
+  }
+]

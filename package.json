@@ -1,0 +1,16 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "presentation.js",
+  "scripts": {
+    "start": "node presentation.js",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "INFS3201 Assignment 2 - Digital Media Catalog (3-tier, login)",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
